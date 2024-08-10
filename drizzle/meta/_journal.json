@@ -1,0 +1,20 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1720787675088,
+      "tag": "0000_lean_shinobi_shaw",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1720788335562,
+      "tag": "0001_shallow_the_order",
+      "breakpoints": true
+    }
+  ]
+}
